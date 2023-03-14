@@ -1,0 +1,26 @@
+{
+  "clientID": "dc2f2373c574dc62",
+  "CommandQue": [],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [],
+  "wifiLog": [],
+  "clipboardLog": [],
+  "notificationLog": [],
+  "enabledPermissions": [],
+  "apps": [],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [
+    {
+      "time": "2023-03-14T12:22:38.453Z",
+      "type": "voiceRecord",
+      "originalName": "sound399925537.mp3",
+      "path": "/client_downloads/98906-1610-6c56e.mp3"
+    }
+  ],
+  "currentFolder": []
+}

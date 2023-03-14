@@ -1,0 +1,462 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "21232f297a57a5a743894a0e4a801fc3",
+    "loginToken": "cd600d4c8151c8ebeac0be0f02aee0f1",
+    "logs": [
+      {
+        "time": "2023-03-14T11:04:53.446Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.12\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-14T11:05:01.602Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.12\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-14T11:21:03.016Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.12\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-14T11:27:51.386Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"D:\\sources\\node.js\\l3mon\\app\\factory\\apktool.jar\" b \"D:\\sources\\node.js\\l3mon\\app\\factory\\decompiled\" -o \"D:\\sources\\node.js\\l3mon\\assets\\webpublic\\build.apk\"\nS: WARNING: Could not write to (C:\\Users\\Zbook\\AppData\\Local\\apktool\\framework), using C:\\Users\\Zbook\\AppData\\Local\\Temp\\ instead...\r\nS: Please be aware this is a volatile directory and frameworks could go missing, please utilize --frame-path if the default storage directory is unavailable\r\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = -1073741515): [C:\\Users\\Zbook\\AppData\\Local\\Temp\\brut_util_Jar_1858225193970338261.tmp, p, --forced-package-id, 127, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, C:\\Users\\Zbook\\AppData\\Local\\Temp\\APKTOOL6022270780117965801.tmp, -0, arsc, -0, png, -0, arsc, -I, C:\\Users\\Zbook\\AppData\\Local\\Temp\\1.apk, -S, D:\\sources\\node.js\\l3mon\\app\\factory\\decompiled\\res, -M, D:\\sources\\node.js\\l3mon\\app\\factory\\decompiled\\AndroidManifest.xml]\r\n"
+      },
+      {
+        "time": "2023-03-14T11:30:40.277Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"D:\\sources\\node.js\\l3mon\\app\\factory\\apktool.jar\" b \"D:\\sources\\node.js\\l3mon\\app\\factory\\decompiled\" -o \"D:\\sources\\node.js\\l3mon\\assets\\webpublic\\build.apk\"\nS: WARNING: Could not write to (C:\\Users\\Zbook\\AppData\\Local\\apktool\\framework), using C:\\Users\\Zbook\\AppData\\Local\\Temp\\ instead...\r\nS: Please be aware this is a volatile directory and frameworks could go missing, please utilize --frame-path if the default storage directory is unavailable\r\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = -1073741515): [C:\\Users\\Zbook\\AppData\\Local\\Temp\\brut_util_Jar_362648834741581754.tmp, p, --forced-package-id, 127, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, C:\\Users\\Zbook\\AppData\\Local\\Temp\\APKTOOL4323733931001855408.tmp, -0, arsc, -0, png, -0, arsc, -I, C:\\Users\\Zbook\\AppData\\Local\\Temp\\1.apk, -S, D:\\sources\\node.js\\l3mon\\app\\factory\\decompiled\\res, -M, D:\\sources\\node.js\\l3mon\\app\\factory\\decompiled\\AndroidManifest.xml]\r\n"
+      },
+      {
+        "time": "2023-03-14T12:06:52.050Z",
+        "type": "INFO",
+        "message": "4d954fa745c2570c Connected"
+      },
+      {
+        "time": "2023-03-14T12:07:01.645Z",
+        "type": "INFO",
+        "message": "4d954fa745c2570c Disconnected"
+      },
+      {
+        "time": "2023-03-14T12:07:53.331Z",
+        "type": "INFO",
+        "message": "4d954fa745c2570c Connected"
+      },
+      {
+        "time": "2023-03-14T12:08:20.765Z",
+        "type": "INFO",
+        "message": "4d954fa745c2570c Disconnected"
+      },
+      {
+        "time": "2023-03-14T12:11:15.406Z",
+        "type": "INFO",
+        "message": "4d954fa745c2570c Connected"
+      },
+      {
+        "time": "2023-03-14T12:11:23.932Z",
+        "type": "INFO",
+        "message": "4d954fa745c2570c Disconnected"
+      },
+      {
+        "time": "2023-03-14T12:14:39.843Z",
+        "type": "INFO",
+        "message": "dc2f2373c574dc62 Connected"
+      },
+      {
+        "time": "2023-03-14T12:16:11.771Z",
+        "type": "INFO",
+        "message": "dc2f2373c574dc62 Disconnected"
+      },
+      {
+        "time": "2023-03-14T12:21:47.114Z",
+        "type": "INFO",
+        "message": "dc2f2373c574dc62 Connected"
+      },
+      {
+        "time": "2023-03-14T12:22:10.162Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From dc2f2373c574dc62"
+      },
+      {
+        "time": "2023-03-14T12:22:29.339Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From dc2f2373c574dc62"
+      },
+      {
+        "time": "2023-03-14T12:22:38.448Z",
+        "type": "INFO",
+        "message": "Recieving sound399925537.mp3 from dc2f2373c574dc62"
+      },
+      {
+        "time": "2023-03-14T12:23:33.650Z",
+        "type": "INFO",
+        "message": "dc2f2373c574dc62 Disconnected"
+      },
+      {
+        "time": "2023-03-14T12:34:00.277Z",
+        "type": "INFO",
+        "message": "4d954fa745c2570c Connected"
+      },
+      {
+        "time": "2023-03-14T12:34:41.290Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:34:41.328Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-14T12:34:47.718Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:34:47.733Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-14T12:34:50.262Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:34:50.278Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-14T12:34:56.160Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:34:56.174Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-14T12:34:57.983Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:34:58.009Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-14T12:34:59.710Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:34:59.724Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-14T12:35:01.255Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:35:01.273Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-14T12:35:04.292Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:35:04.317Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-14T12:35:08.857Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:35:08.865Z",
+        "type": "SUCCESS",
+        "message": "4d954fa745c2570c Permissions Updated"
+      },
+      {
+        "time": "2023-03-14T12:35:13.540Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:35:13.851Z",
+        "type": "SUCCESS",
+        "message": "4d954fa745c2570c Apps Updated"
+      },
+      {
+        "time": "2023-03-14T12:35:33.373Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:35:33.414Z",
+        "type": "ERROR",
+        "message": "4d954fa745c2570c GPS Recieved No Data"
+      },
+      {
+        "time": "2023-03-14T12:35:33.418Z",
+        "type": "ERROR",
+        "message": "4d954fa745c2570c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2023-03-14T12:35:46.867Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:35:51.955Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:36:02.102Z",
+        "type": "INFO",
+        "message": "Recieving sound635038614.mp3 from 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:36:18.349Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:36:21.137Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:36:27.468Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:36:29.797Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:36:29.832Z",
+        "type": "SUCCESS",
+        "message": "4d954fa745c2570c WiFi Updated - 1 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2023-03-14T12:38:09.851Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 4d954fa745c2570c"
+      },
+      {
+        "time": "2023-03-14T12:41:42.499Z",
+        "type": "INFO",
+        "message": "64e9d5081b48a480 Connected"
+      },
+      {
+        "time": "2023-03-14T12:41:54.383Z",
+        "type": "INFO",
+        "message": "64e9d5081b48a480 Disconnected"
+      },
+      {
+        "time": "2023-03-14T12:41:56.489Z",
+        "type": "INFO",
+        "message": "64e9d5081b48a480 Connected"
+      },
+      {
+        "time": "2023-03-14T12:41:56.490Z",
+        "type": "INFO",
+        "message": "64e9d5081b48a480 Running Queued Commands"
+      },
+      {
+        "time": "2023-03-14T12:41:56.492Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:41:56.896Z",
+        "type": "SUCCESS",
+        "message": "64e9d5081b48a480 Contacts Updated - 1 New Contacts Added"
+      },
+      {
+        "time": "2023-03-14T12:42:06.810Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:42:07.218Z",
+        "type": "SUCCESS",
+        "message": "64e9d5081b48a480 Call Log Updated - 122 New Calls"
+      },
+      {
+        "time": "2023-03-14T12:42:15.318Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:42:15.679Z",
+        "type": "SUCCESS",
+        "message": "64e9d5081b48a480 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2023-03-14T12:42:19.409Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:42:19.498Z",
+        "type": "SUCCESS",
+        "message": "64e9d5081b48a480 WiFi Updated - 1 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2023-03-14T12:42:22.242Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:42:25.034Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:42:26.288Z",
+        "type": "SUCCESS",
+        "message": "64e9d5081b48a480 Apps Updated"
+      },
+      {
+        "time": "2023-03-14T12:42:26.455Z",
+        "type": "SUCCESS",
+        "message": "64e9d5081b48a480 Apps Updated"
+      },
+      {
+        "time": "2023-03-14T12:42:27.101Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:42:27.126Z",
+        "type": "SUCCESS",
+        "message": "64e9d5081b48a480 Permissions Updated"
+      },
+      {
+        "time": "2023-03-14T12:42:29.714Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:42:29.736Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-14T12:42:32.812Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:42:32.874Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-14T12:42:47.931Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:42:48.070Z",
+        "type": "SUCCESS",
+        "message": "64e9d5081b48a480 Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2023-03-14T12:42:51.668Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:43:09.299Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:43:19.767Z",
+        "type": "INFO",
+        "message": "Recieving sound-1013535400.mp3 from 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:43:54.800Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 64e9d5081b48a480"
+      },
+      {
+        "time": "2023-03-14T12:43:54.958Z",
+        "type": "SUCCESS",
+        "message": "64e9d5081b48a480 SENT SMS"
+      },
+      {
+        "time": "2023-03-14T12:44:31.809Z",
+        "type": "INFO",
+        "message": "64e9d5081b48a480 Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "4d954fa745c2570c",
+      "firstSeen": "2023-03-14T12:06:52.031Z",
+      "lastSeen": "2023-03-14T12:34:00.274Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "192.168.1.104",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-G935F",
+          "manufacture": "samsung",
+          "version": "7.1.2"
+        }
+      }
+    },
+    {
+      "clientID": "dc2f2373c574dc62",
+      "firstSeen": "2023-03-14T12:14:39.820Z",
+      "lastSeen": "2023-03-14T12:23:33.654Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.1.104",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-N975F",
+          "manufacture": "samsung",
+          "version": "7.1.2"
+        }
+      }
+    },
+    {
+      "clientID": "64e9d5081b48a480",
+      "firstSeen": "2023-03-14T12:41:42.484Z",
+      "lastSeen": "2023-03-14T12:44:31.812Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.1.105",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-J105H",
+          "manufacture": "samsung",
+          "version": "5.1.1"
+        }
+      }
+    }
+  ]
+}
